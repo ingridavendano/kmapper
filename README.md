@@ -1,0 +1,4 @@
+kmapper
+=======
+
+Karnaugh map simulator. 
